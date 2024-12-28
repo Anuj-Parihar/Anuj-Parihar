@@ -38,7 +38,7 @@
   <a href="https://linkedin.com/in/anuj-parihar-716336233" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/Anuj-Parihar" target="blank">
+  <a href="https://github.com/Anuj-Parihar" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
