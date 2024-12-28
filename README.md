@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuj Parihar</h1>
 <h3 align="center">A passionate MERN Stack Developer and Tech Enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Anuj-Parihar&label=Profile%20views&color=0e75b6&style=flat" alt="Anuj-Parihar" />
-</p>
-
 <table>
   <tr>
     <td>
