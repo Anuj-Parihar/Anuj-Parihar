@@ -13,8 +13,6 @@
       <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding GIF" width="300" />
     </td>
   </tr>
-</table>
-
 <h3 align="left">Technologies & Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -43,6 +41,8 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
+</table>
+
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
