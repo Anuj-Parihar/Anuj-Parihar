@@ -13,6 +13,7 @@
       <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding GIF" width="300" />
     </td>
   </tr>
+</table>
 <h3 align="left">Technologies & Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -40,14 +41,4 @@
   <a href="https://github.com/Anuj-Parihar" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
-</p>
-</table>
-
-
-<h3 align="left">My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuj-Parihar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Parihar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
