@@ -8,9 +8,9 @@
 <table>
   <tr>
     <td>
-      <p>🌱 I’m currently learning <b>Advanced MERN Stack and Cloud Technologies</b></p>
+      <p>🌱 I’m currently learning <b>Advanced MERN Stack</b></p>
       <p>💬 Ask me about <b>JavaScript, React, Node.js, MongoDB, and Express</b></p>
-      <p>📫 How to reach me: <b>anuj.parihar@example.com</b></p>
+      <p>📫 How to reach me: <b>anujparihar.tech@gmail.com</b></p>
       <p>⚡ Fun fact: <b>I enjoy building fun web apps and playing chess.</b></p>
     </td>
     <td>
